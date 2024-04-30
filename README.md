@@ -33,7 +33,7 @@ This project aims to replicate the responsibilities of a data engineer by proces
 - **Database:** verusen
 
 ## Development Environment Execution
-1. Download the git repository.
+1. Download this git repository.
 2. Navigate to the `development` folder.
 3. Open the terminal and execute `docker-compose up -d`.
 4. Access the database manager by navigating to http://localhost:8080/ in your browser to reach "Adminer".
@@ -43,7 +43,7 @@ This project aims to replicate the responsibilities of a data engineer by proces
 > **Note:** If the "main.ipynb" notebook is modified, convert it to a Python script using the "convert_script.ipynb" notebook by running the first cell, which will generate the "main.py" script for use in the production environment.
 
 ## Production Environment Execution
-1. Download the git repository.
+1. Download this git repository.
 2. Navigate to the `development` folder.
 3. Open the terminal and execute `docker-compose up -d`.
 4. To view the execution logs of the notebook, access the terminal again and execute `docker-compose logs`. Once execution concludes, the PySpark container stops automatically while the PostgreSQL container remains running.
