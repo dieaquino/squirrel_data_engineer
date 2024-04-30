@@ -1,0 +1,33 @@
+ParkID,ParkName,PrimaryFurColors,Total
+1,Fort Tryon Park,Black,1
+1,Fort Tryon Park,Gray,11
+2,J Hood Wright Park,Cinnamon,1
+2,J Hood Wright Park,Gray,23
+3,Highbridge Park,Gray,20
+4,St Nicholas Park,Black,2
+4,St Nicholas Park,Gray,13
+5,Riverside Park,Gray,140
+6,Marcus Garvey Park,Black,2
+6,Marcus Garvey Park,Gray,32
+7,Madison Square Park,Gray,11
+8,Union Square Park,Cinnamon,5
+8,Union Square Park,Gray,11
+9,Stuyvesant Square Park,Black,6
+9,Stuyvesant Square Park,Gray,19
+10,Washington Square Park,Gray,67
+11,Tompkins Square Park,Black,20
+11,Tompkins Square Park,Gray,275
+12,John V Lindsay East River Park,Black,1
+12,John V Lindsay East River Park,Gray,11
+14,Seward Park,Gray,11
+15,Corlears Hook Park,Cinnamon,1
+15,Corlears Hook Park,Gray,15
+16,Columbus Park,Gray,4
+18,Teardrop Park,Gray,1
+19,City Hall Park,Gray,30
+20,Battery Park,ND,1
+20,Battery Park,Cinnamon,8
+20,Battery Park,Gray,37
+21,Msgr McGolrick Park,Gray,14
+22,McCarren Park,Cinnamon,23
+22,McCarren Park,Gray,73
