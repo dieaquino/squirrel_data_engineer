@@ -3,7 +3,7 @@ Data engineering: processing, normalization, queries, pyspark containers.
 
 ## Project Description
 
-This project aims to replicate the responsibilities of a data engineer at Verusen by processing raw data from various sources, transforming it, and loading it into a database. I developed Python scripts to handle CSV files, ensuring idempotency and utilized Apache Spark within a Docker container. The dataset used was the Central Park Squirrel Census, which includes data about the squirrel population in Central Park. I normalized the data for efficient querying and delivered a populated database schema along with executable queries in the mentioned environment.
+This project aims to replicate the responsibilities of a data engineer by processing raw data from various sources, transforming it, and loading it into a database. I developed Python scripts to handle CSV files, ensuring idempotency and utilized Apache Spark within a Docker container. The dataset used was the Central Park Squirrel Census, which includes data about the squirrel population in Central Park. I normalized the data for efficient querying and delivered a populated database schema along with executable queries in the mentioned environment.
 
 ## Development Workflow
 
