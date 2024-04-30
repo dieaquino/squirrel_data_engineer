@@ -14,8 +14,8 @@ This project aims to replicate the responsibilities of a data engineer by proces
 
 ### Docker Implementation and Data Ingestion
 - Set up two Docker environments: one for development and one for production, choosing PostgreSQL as the database.
-- Created a `source` directory to store the CSV data files.
-- Handled data ingestion from `/source/park-data.csv` and `/source/squirrel-data.csv`.
+- Created a `code/source` directory to store the CSV data files.
+- Handled data ingestion from `code/source/park-data.csv` and `code/source/squirrel-data.csv`.
 
 ### Data Staging and Processing
 - Preprocessed the data, including cleaning, null field validation, removing strange characters, and deduplicating rows.
@@ -24,7 +24,7 @@ This project aims to replicate the responsibilities of a data engineer by proces
 
 ### SQL Query and Output Configuration
 - Generated the necessary SQL queries, which can be viewed directly in the Jupyter notebook within dataframes.
-- Configured an `output` directory to automatically deposit the results of each query.
+- Configured an `code/output` directory to automatically deposit the results of each query.
 
 ## PostgreSQL Database Access
 - **Host:** postgres
